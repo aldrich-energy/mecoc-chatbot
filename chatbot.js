@@ -1,5 +1,5 @@
 (function () {
-  const SHEET_URL = "https://script.google.com/macros/s/AKfycbxVy1qtiyteTOXr7q0vBNLvvbcxoHOnZncouWCD2AhEG6ns4qcElkwokJdNmb0e3ltt8Q/exec";
+  const SHEET_URL = "https://script.google.com/macros/s/AKfycbwLgLdTakPKptg3vqwIQSii__l7Q31VOwBLWQGUdWVtCVsKrZMSLR8b0tBaKVbVh3uNiQ/exec";
   const MAILBITE_KEY = "L5X3cRWWY49edQQpI7b8YHM7ds1crJKltsOo";
   const WEBSITE_NAME = "MECOC EXPO"; // ← change this per website
 
@@ -86,7 +86,7 @@
     register: {
       text: "Registering for MECOC EXPO 2027 is easy! We have Visitor Passes, Delegate Packages, and VIP options available.\n\nClick below to secure your spot:",
       link: "Register Now →",
-      url: "https://www.mecocexpo.com/registrations"
+      url: "https://www.mecocexpo.com/registration"
     },
     sponsor: {
       text: "Sponsorship Opportunities:\n\nFor sponsorship details and packages, please contact our team. We would be happy to provide you with more information on how you can participate.\n\n📧 Contact:",
